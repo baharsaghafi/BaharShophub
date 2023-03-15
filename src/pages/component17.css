@@ -1,0 +1,570 @@
+.overlay-child41,
+.overlay-child42 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-palegoldenrod);
+}
+.overlay-child42 {
+  height: 38.64%;
+  top: 61.36%;
+  background-color: var(--color-lemonchiffon);
+}
+.left-arrow-inner {
+  position: relative;
+  border-radius: var(--br-8xs);
+  width: 55.55px;
+  height: 57.26px;
+  flex-shrink: 0;
+}
+.left-arrow2 {
+  position: absolute;
+  top: calc(50% - 66px);
+  left: calc(50% - 445px);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.looking-great-now11 {
+  position: relative;
+  line-height: 40px;
+}
+.looking-great-now-choose-ho2 {
+  position: absolute;
+  top: calc(50% - 301px);
+  left: calc(50% - 763.5px);
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-343xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-4-child5 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.create-a-reward6,
+.free-shipping8 {
+  position: absolute;
+  display: inline-block;
+}
+.create-a-reward6 {
+  height: 10.51%;
+  width: 70.36%;
+  top: 8.95%;
+  left: 14.98%;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+}
+.free-shipping8 {
+  height: 7%;
+  width: 38.76%;
+  top: 31.52%;
+  left: 19.22%;
+  font-weight: 500;
+}
+.group-child196 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+}
+.add24 {
+  position: absolute;
+  height: 59.09%;
+  width: 57.14%;
+  top: 22.73%;
+  left: 22.45%;
+  font-weight: 500;
+  display: inline-block;
+}
+.rectangle-parent95 {
+  position: absolute;
+  height: 8.56%;
+  width: 15.96%;
+  top: 29.96%;
+  right: 9.77%;
+  bottom: 61.48%;
+  left: 74.27%;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-xs);
+}
+.transport-shipping-truck6 {
+  position: absolute;
+  height: 9.34%;
+  width: 7.82%;
+  top: 29.18%;
+  right: 82.74%;
+  bottom: 61.48%;
+  left: 9.45%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.add25,
+.product-discount10 {
+  position: absolute;
+  height: 7%;
+  width: 46.91%;
+  top: 46.3%;
+  left: 18.89%;
+  font-weight: 500;
+  display: inline-block;
+}
+.add25 {
+  height: 59.09%;
+  width: 57.14%;
+  top: 22.73%;
+  left: 20.41%;
+}
+.rectangle-parent96 {
+  position: absolute;
+  height: 8.56%;
+  width: 15.96%;
+  top: 45.14%;
+  right: 9.77%;
+  bottom: 46.3%;
+  left: 74.27%;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-xs);
+}
+.shopping-tag11 {
+  position: absolute;
+  height: 9.34%;
+  width: 7.82%;
+  top: 45.14%;
+  right: 83.06%;
+  bottom: 45.53%;
+  left: 9.12%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.free-product8 {
+  position: absolute;
+  height: 7%;
+  width: 35.5%;
+  top: 74.71%;
+  left: 18.89%;
+  font-weight: 500;
+  display: inline-block;
+}
+.rectangle-parent97 {
+  position: absolute;
+  height: 8.56%;
+  width: 15.96%;
+  top: 73.93%;
+  right: 9.77%;
+  bottom: 17.51%;
+  left: 74.27%;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-xs);
+}
+.shopping-shopping-bag6 {
+  position: absolute;
+  height: 9.34%;
+  width: 7.82%;
+  top: 73.15%;
+  right: 83.06%;
+  bottom: 17.51%;
+  left: 9.12%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.coupon8 {
+  position: absolute;
+  height: 7%;
+  width: 22.15%;
+  top: 60.31%;
+  left: 19.22%;
+  font-weight: 500;
+  display: inline-block;
+}
+.rectangle-parent98 {
+  position: absolute;
+  height: 8.56%;
+  width: 15.96%;
+  top: 59.53%;
+  right: 9.77%;
+  bottom: 31.91%;
+  left: 74.27%;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-xs);
+}
+.shopping-tag12 {
+  position: absolute;
+  height: 9.34%;
+  width: 7.82%;
+  top: 59.53%;
+  right: 82.41%;
+  bottom: 31.13%;
+  left: 9.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component-45 {
+  position: relative;
+  width: 337px;
+  height: 258px;
+  flex-shrink: 0;
+}
+.component-4-wrapper3 {
+  position: absolute;
+  top: calc(50% - 148px);
+  left: calc(50% - 343px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-base);
+}
+.choose-your-plan17 {
+  position: absolute;
+  width: 11.34%;
+  top: 0;
+  left: 0;
+  line-height: 12px;
+  font-weight: 500;
+  display: inline-block;
+}
+.customise-your-widget17 {
+  left: 20.77%;
+}
+.choose-your-rewards17,
+.customise-your-widget17,
+.ready17,
+.set-up-your17 {
+  position: absolute;
+  width: 14.14%;
+  top: 0;
+  line-height: 12px;
+  display: inline-block;
+}
+.set-up-your17 {
+  left: 41.88%;
+  font-weight: 500;
+}
+.choose-your-rewards17,
+.ready17 {
+  left: 65.62%;
+}
+.ready17 {
+  width: 15.71%;
+  top: 18.75%;
+  left: 84.29%;
+  font-weight: 500;
+}
+.group-child200 {
+  position: absolute;
+  height: 1.56%;
+  width: 83.07%;
+  top: 67.97%;
+  right: 9.51%;
+  bottom: 30.47%;
+  left: 7.42%;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.group-child201,
+.group-child202,
+.group-child203,
+.group-child204,
+.group-child205 {
+  position: absolute;
+  height: 31.25%;
+  width: 3.49%;
+  top: 53.13%;
+  right: 92.5%;
+  bottom: 15.63%;
+  left: 4.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child202,
+.group-child203,
+.group-child204,
+.group-child205 {
+  right: 70.33%;
+  left: 26.18%;
+  cursor: pointer;
+}
+.group-child203,
+.group-child204,
+.group-child205 {
+  right: 49.39%;
+  left: 47.12%;
+}
+.group-child204,
+.group-child205 {
+  height: 54.69%;
+  width: 6.11%;
+  top: 45.31%;
+  right: 24.26%;
+  bottom: 0;
+  left: 69.63%;
+}
+.group-child205 {
+  height: 31.25%;
+  width: 3.49%;
+  top: 53.13%;
+  right: 6.11%;
+  bottom: 15.63%;
+  left: 90.4%;
+}
+.choose-your-plan-parent14 {
+  position: relative;
+  width: 573px;
+  height: 64px;
+  flex-shrink: 0;
+}
+.overlay-inner15 {
+  position: absolute;
+  top: calc(50% + 236px);
+  left: calc(50% - 287px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-3xs);
+}
+.free-shipping9,
+.reward-name9 {
+  position: absolute;
+  height: 6.87%;
+  width: 40.72%;
+  top: 33.59%;
+  left: 29.64%;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.free-shipping9 {
+  height: 10.31%;
+  width: 58.63%;
+  top: 8.78%;
+  left: 28.66%;
+  font-size: var(--font-size-5xl);
+}
+.stamps-to-redeem9 {
+  position: absolute;
+  height: 6.11%;
+  width: 52.12%;
+  top: 57.25%;
+  left: 17.92%;
+  font-weight: 600;
+  text-align: left;
+  display: inline-block;
+}
+.group-child207 {
+  position: absolute;
+  height: 100%;
+  width: 99.32%;
+  top: 0;
+  right: 0.68%;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+}
+.div31 {
+  position: absolute;
+  height: 97.14%;
+  width: 99.53%;
+  top: 0.94%;
+  left: 0.47%;
+  line-height: 18.5px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.rectangle-parent100 {
+  position: absolute;
+  height: 8.78%;
+  width: 16.4%;
+  top: 55.34%;
+  right: 17.8%;
+  bottom: 35.88%;
+  left: 65.8%;
+  color: var(--color-darkslategray-100);
+}
+.group-child208 {
+  position: absolute;
+  height: 90.99%;
+  width: 99.87%;
+  top: 0;
+  right: 0;
+  bottom: 9.01%;
+  left: 0.13%;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(180deg, rgba(252, 231, 167, 0), #fce49c),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0)),
+    #fdf1ca;
+  box-shadow: 0 3px 1px rgba(179, 142, 25, 0.7);
+}
+.confirm9 {
+  position: absolute;
+  height: 99.24%;
+  width: 99.54%;
+  top: 0.76%;
+  left: 0;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-parent101 {
+  position: absolute;
+  height: 11.33%;
+  width: 27.72%;
+  top: 80.53%;
+  right: 18.57%;
+  bottom: 8.14%;
+  left: 53.71%;
+  cursor: pointer;
+  color: var(--color-gray-300);
+}
+.back9,
+.group-child209 {
+  position: absolute;
+  left: 0;
+}
+.group-child209 {
+  height: 100%;
+  width: 98.94%;
+  top: 0;
+  right: 1.06%;
+  bottom: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 3px 1px rgba(0, 0, 0, 0.29);
+}
+.back9 {
+  height: 48.15%;
+  width: 100%;
+  top: 29.63%;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-parent102 {
+  position: absolute;
+  height: 10.47%;
+  width: 27.89%;
+  top: 80.62%;
+  right: 51.34%;
+  bottom: 8.91%;
+  left: 20.77%;
+  cursor: pointer;
+}
+.group-child210 {
+  position: absolute;
+  height: 100%;
+  width: 99.83%;
+  top: 0;
+  right: 0.17%;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+}
+.reward7 {
+  position: absolute;
+  height: 96.87%;
+  width: 95.56%;
+  top: 0.79%;
+  left: 4.44%;
+  display: flex;
+  align-items: center;
+}
+.rectangle-parent103 {
+  position: absolute;
+  height: 8.78%;
+  width: 64.28%;
+  top: 43.16%;
+  right: 17.8%;
+  bottom: 48.06%;
+  left: 17.92%;
+  text-align: left;
+  font-size: 13.35px;
+  color: var(--color-darkslategray-100);
+}
+.vector-icon11 {
+  position: absolute;
+  height: 14.5%;
+  width: 14.33%;
+  top: 5.73%;
+  right: 75.57%;
+  bottom: 79.77%;
+  left: 10.1%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.overlay-inner16 {
+  position: absolute;
+  top: calc(50% - 148px);
+  left: calc(50% + 3px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-sm);
+}
+.div30,
+.overlay17 {
+  width: 100%;
+  overflow: hidden;
+}
+.overlay17 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.div30 {
+  position: relative;
+  background-color: var(--color-white);
+  height: 704px;
+  text-align: center;
+  font-size: var(--font-size-9xl);
+  color: var(--color-gray-600);
+  font-family: var(--font-spartan);
+}

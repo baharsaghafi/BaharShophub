@@ -1,0 +1,240 @@
+.background,
+.overlay-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-palegoldenrod);
+}
+.overlay-child {
+  height: 38.64%;
+  top: 61.36%;
+  background-color: var(--color-lemonchiffon);
+}
+.choose-your-plan {
+  position: absolute;
+  width: 11.19%;
+  top: 0;
+  left: 0;
+  line-height: 12px;
+  font-weight: 500;
+  display: inline-block;
+}
+.customise-your-widget {
+  left: 20.48%;
+}
+.choose-your-rewards,
+.customise-your-widget,
+.ready,
+.set-up-your {
+  position: absolute;
+  width: 13.94%;
+  top: 0;
+  line-height: 12px;
+  display: inline-block;
+}
+.set-up-your {
+  left: 41.48%;
+  font-weight: 500;
+}
+.choose-your-rewards,
+.ready {
+  left: 63.34%;
+}
+.ready {
+  width: 15.49%;
+  top: 18.75%;
+  left: 84.51%;
+}
+.group-child {
+  position: absolute;
+  height: 1.56%;
+  width: 81.93%;
+  top: 67.97%;
+  right: 10.76%;
+  bottom: 30.47%;
+  left: 7.31%;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.ellipse-icon,
+.group-child1,
+.group-child2,
+.group-inner,
+.group-item {
+  position: absolute;
+  height: 31.25%;
+  width: 3.44%;
+  top: 53.13%;
+  right: 92.6%;
+  bottom: 15.63%;
+  left: 3.96%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ellipse-icon,
+.group-child1,
+.group-child2,
+.group-inner {
+  right: 70.74%;
+  left: 25.82%;
+  cursor: pointer;
+}
+.ellipse-icon,
+.group-child1,
+.group-child2 {
+  right: 50.09%;
+  left: 46.47%;
+}
+.group-child1,
+.group-child2 {
+  right: 27.88%;
+  left: 68.67%;
+}
+.group-child2 {
+  height: 54.69%;
+  width: 6.02%;
+  top: 45.31%;
+  right: 4.82%;
+  bottom: 0;
+  left: 89.16%;
+}
+.choose-your-plan-parent {
+  position: relative;
+  width: 581px;
+  height: 64px;
+  flex-shrink: 0;
+}
+.progress {
+  position: absolute;
+  top: calc(50% + 236px);
+  left: calc(50% - 287px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.overlay-item {
+  position: absolute;
+  top: calc(50% - 58.26px);
+  left: calc(50% - 443.3px);
+  border-radius: var(--br-8xs);
+  width: 55.55px;
+  height: 59.51px;
+  cursor: pointer;
+}
+.component-12-child,
+.rectangle-div {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.rectangle-div {
+  background-color: var(--color-lemonchiffon);
+  box-shadow: 0 4px 4px rgba(179, 142, 25, 0.7);
+}
+.launch-program {
+  position: absolute;
+  top: 29.51%;
+  left: 17.11%;
+  font-weight: 600;
+}
+.rectangle-parent {
+  position: absolute;
+  height: 15.93%;
+  width: 75.06%;
+  top: 70.76%;
+  right: 13.1%;
+  bottom: 13.32%;
+  left: 11.84%;
+}
+.launch-later {
+  position: absolute;
+  top: 90.21%;
+  left: 34.51%;
+  font-size: var(--font-size-lg);
+  text-decoration: underline;
+  font-weight: 600;
+  color: #3d3d3d;
+}
+.group-parent,
+.kiddl-stuff-6-1 {
+  position: absolute;
+  overflow: hidden;
+}
+.kiddl-stuff-6-1 {
+  height: 66.84%;
+  width: 94.71%;
+  top: 1.31%;
+  right: 3.02%;
+  bottom: 31.85%;
+  left: 2.27%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.group-parent {
+  height: 99.48%;
+  width: 99.25%;
+  top: 0.52%;
+  right: 0;
+  bottom: 0;
+  left: 0.75%;
+}
+.component-12 {
+  position: relative;
+  width: 400px;
+  height: 385px;
+  flex-shrink: 0;
+}
+.component-12-wrapper {
+  position: absolute;
+  top: calc(50% - 213.5px);
+  left: calc(50% - 208px);
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-5xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 22px;
+  color: var(--color-black);
+}
+.hooray-your-loyalty {
+  position: absolute;
+  top: calc(50% - 276.5px);
+  left: calc(50% - 349px);
+  font-size: var(--font-size-9xl);
+}
+.div,
+.overlay {
+  width: 100%;
+  overflow: hidden;
+}
+.overlay {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.div {
+  position: relative;
+  background-color: var(--color-white);
+  height: 704px;
+  text-align: center;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-600);
+  font-family: var(--font-spartan);
+}
