@@ -202,16 +202,7 @@
   font-size: 8.93px;
   color: var(--color-black);
 }
-.group-child219 {
-  position: absolute;
-  top: 121px;
-  left: 0;
-  border-radius: var(--br-3xs);
-  background-color: var(--color-white);
-  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-  width: 504px;
-  height: 121px;
-}
+
 .position-on-screen {
   position: absolute;
   top: 22px;

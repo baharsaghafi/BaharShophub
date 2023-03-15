@@ -91,7 +91,6 @@ const Component18: FunctionComponent = () => {
         </div>
         <div className="overlay-inner18">
           <div className="rectangle-parent106">
-            <div className="group-child219" />
             <div className="position-on-screen">Position on screen</div>
             <div
               className="rectangle-parent107"
